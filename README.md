@@ -21,3 +21,12 @@ Activity 4:
 ![Screen Shot 2021-09-29 at 12 18 58 AM](https://user-images.githubusercontent.com/58006151/135202855-db61f94d-0548-47ad-ade1-900a13dce96c.png)
 
 
+Activity 5:
+
+Functional requirement:
+- There must be information displayed after user inputs. 
+With the search box and dropdown menu available, only valid arguments allow for the webpage to visibly refresh. However, the application does not take care of use cases where the data retrieval takes longer than expected or if the arguments are invalid. The lack of response from the system may cause the user to think that it is not working. Ways to improve include displaying an error message, prompting the user to enter again, or a screen indicating that the information is loading. 
+
+Non-functional requirement:
+- The background colour of the webpage shall be a light shade of blue.
+The current background colour of the webpage is white. In combination with the lack of elements, the page looks very bland and incomplete. Changing the background colour to something easier on the eye, such as blue to match the University, will provide a better user experience. 
